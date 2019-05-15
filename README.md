@@ -54,4 +54,6 @@ return bulletList
 self.bulletpointsLbl.attributedText = self.bulletpointsLbl.addBulletPoint(stringList: bulletString, font: UIFont.systemFont(ofSize: 14.0), bullet: "\u{2022}", indentation: 20, lineSpacing: 2, paragraphSpacing: 10, textColor: Utils.colorWithHexString(hexString: "606060"), bulletColor: Utils.colorWithHexString(hexString: "79bf49"))
 ```
 
-[Unicode Character Category 'Symbol, Other'](http://www.fileformat.info/info/unicode/category/So/index.htm)
+### [Unicode Character Category 'Symbol, Other'](http://www.fileformat.info/info/unicode/category/So/index.htm)
+
+### [Unicode Character Categories](http://www.fileformat.info/info/unicode/category/index.htm)
